@@ -1,0 +1,274 @@
+{
+  "portfolio": {
+    "owner": "Shahab Saqib",
+    "projects": [
+      {
+        "id": "leadpilot-and-extension",
+        "title": "LeadPilot App & Chrome Extension",
+        "category": "AI / Automation / Lead Generation",
+        "technologies": [
+          "Laravel",
+          "PHP",
+          "JavaScript",
+          "Chrome Extension",
+          "REST API"
+        ],
+        "description": "The Chrome extension automatically finds relevant LinkedIn posts, people, and companies based on keywords, collects their data, and sends it to the application via API. AI then filters valuable leads, verifies emails, and generates personalized outreach emails using profile and post data for higher engagement.",
+        "role": "Backend Developer / AI Integration Developer",
+        "status": "private",
+        "is_private": true,
+        "url": null,
+        "image": null,
+        "case_study_url": null,
+        "featured": true
+      },
+      {
+        "id": "ai-wordpress-autoblog",
+        "title": "AI WordPress Autoblog",
+        "category": "AI / WordPress Plugin",
+        "technologies": [
+          "WordPress",
+          "PHP",
+          "AI API",
+          "JavaScript",
+          "Plugin Development"
+        ],
+        "description": "A custom WordPress plugin that automates AI-powered content creation and publishing. It researches topics, generates high-quality articles from keywords, finds relevant feature images, and adds useful internal and external links to create well-structured, SEO-friendly content.",
+        "role": "WordPress Plugin Developer",
+        "status": "private",
+        "is_private": true,
+        "url": null,
+        "image": null,
+        "case_study_url": null,
+        "featured": true
+      },
+      {
+        "id": "ai-website-assistant",
+        "title": "AI Website Assistant",
+        "category": "AI / WordPress Plugin",
+        "technologies": [
+          "WordPress",
+          "PHP",
+          "JavaScript",
+          "AI API"
+        ],
+        "description": "An AI-powered WordPress plugin that provides a smart website assistant using website and business information. It captures customer details and sends them by email, while saving new questions for review. Once a question is answered, the response is stored and automatically reused for future visitors asking the same question.",
+        "role": "WordPress Plugin Developer",
+        "status": "private",
+        "is_private": true,
+        "url": null,
+        "image": null,
+        "case_study_url": null,
+        "featured": true
+      },
+      {
+        "id": "ai-voice-receptionist",
+        "title": "AI Voice Receptionist",
+        "category": "AI / Voice Automation",
+        "technologies": [
+          "Laravel",
+          "Voice AI",
+          "AI",
+          "Automation",
+          "Calendar Integration",
+          "Scheduling"
+        ],
+        "description": "An AI voice receptionist that responds to inbound calls, answers common questions, qualifies enquiries and coordinates meetings through calendar integrations.",
+        "role": "AI Automation / Integration Developer",
+        "status": "private",
+        "is_private": true,
+        "url": null,
+        "image": null,
+        "case_study_url": null,
+        "featured": true
+      },
+      {
+        "id": "one-click-tourism",
+        "title": "One Click Tourism",
+        "category": "Travel / Tourism Platform",
+        "technologies": [
+          "Laravel",
+          "PHP",
+          "MySQL"
+        ],
+        "description": "A digital platform for travel experiences, tourism packages and vehicle-rental services, with tools for customers and business operators.",
+        "role": "Laravel Developer",
+        "status": "client-project",
+        "is_private": false,
+        "url": "https://oneclicktourismllc.com/",
+        "image": "https://codezeroes.com/wp-content/uploads/2025/05/6-5-25-website-landing-page-side-image-768x768.jpg",
+        "case_study_url": null,
+        "featured": true
+      },
+      {
+        "id": "alweam-transport",
+        "title": "Alweam Transport",
+        "category": "Transport / Digital Services",
+        "technologies": [
+          "Laravel",
+          "PHP",
+          "MySQL"
+        ],
+        "description": "A digital platform for a transport company, bringing vehicle and bus services together with customer-facing features and tools for day-to-day operations.",
+        "role": "Laravel Developer",
+        "status": "client-project",
+        "is_private": false,
+        "url": "https://alweamtransport.com/",
+        "image": "https://codezeroes.com/wp-content/uploads/2025/05/6-5-25-alwiam-web-image-768x768.jpg",
+        "case_study_url": null,
+        "featured": true
+      },
+      {
+        "id": "digital-bookstore",
+        "title": "Digital Bookstore",
+        "category": "Ecommerce / Web Application",
+        "technologies": [
+          "Laravel",
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "description": "A digital bookstore web application with customizable themes, product management, and administration functionality.",
+        "role": "Full-Stack Developer",
+        "status": "client-project",
+        "is_private": false,
+        "url": "https://book.codezeroes.com/",
+        "image": "https://codezeroes.com/wp-content/uploads/2025/05/6-5-25-book-web-image.jpg",
+        "case_study_url": null,
+        "featured": true
+      },
+      {
+        "id": "no-lanes-entertainment",
+        "title": "No Lanes Entertainment",
+        "category": "Music / Ecommerce",
+        "technologies": [
+          "WordPress",
+          "WooCommerce",
+          "Elementor",
+          "JavaScript"
+        ],
+        "description": "A music and beat-selling ecommerce website featuring audio products, music previews, custom product layouts, and WooCommerce purchasing functionality.",
+        "role": "WordPress / WooCommerce Developer",
+        "status": "client-project",
+        "is_private": true,
+        "url": null,
+        "image": null,
+        "case_study_url": null,
+        "featured": true
+      },
+      {
+        "id": "menscar",
+        "title": "Men'scar",
+        "category": "Ecommerce / Automotive",
+        "technologies": [
+          "WordPress",
+          "WooCommerce",
+          "Elementor"
+        ],
+        "description": "An automotive-care ecommerce store featuring product presentation, category layouts, custom styling, and WooCommerce functionality.",
+        "role": "WordPress / WooCommerce Developer",
+        "status": "client-project",
+        "is_private": true,
+        "url": null,
+        "image": null,
+        "case_study_url": null,
+        "featured": true
+      },
+      {
+        "id": "designzeros",
+        "title": "Designzeros",
+        "category": "WordPress / Agency Website",
+        "technologies": [
+          "WordPress",
+          "PHP",
+          "Elementor",
+          "JavaScript"
+        ],
+        "description": "A sleek and high-performing WordPress agency website designed to showcase services, portfolio work, and expertise with a modern visual design and seamless user experience.",
+        "role": "WordPress Developer",
+        "status": "client-project",
+        "is_private": false,
+        "url": "https://designzeros.com/",
+        "image": "https://codezeroes.com/wp-content/uploads/2025/11/web-image-4.jpg",
+        "case_study_url": null,
+        "featured": true
+      },
+      {
+        "id": "aldercake",
+        "title": "Aldercake",
+        "category": "Ecommerce / B2B2C",
+        "technologies": [
+          "Laravel",
+          "PHP",
+          "JavaScript"
+        ],
+        "description": "A comprehensive B2B2C ecommerce platform offering professional baking and cake decorating tools at competitive wholesale prices for businesses and enthusiasts.",
+        "role": "Ecommerce Developer",
+        "status": "client-project",
+        "is_private": false,
+        "url": "https://b2b.codezeroes.com/",
+        "image": "https://codezeroes.com/wp-content/uploads/2025/11/web-image-3.jpg",
+        "case_study_url": null,
+        "featured": true
+      },
+      {
+        "id": "formatter",
+        "title": "Formatter",
+        "category": "AI / Document Management",
+        "technologies": [
+          "AI",
+          "Laravel",
+          "PHP",
+          "JavaScript",
+          "Document Processing"
+        ],
+        "description": "An AI-powered platform that streamlines invoice, bill, and document management. It processes single or bulk documents, automatically extracts and organizes information, and formats data for faster and more accurate processing.",
+        "role": "Backend Developer / AI Integration Developer",
+        "status": "client-project",
+        "is_private": false,
+        "url": "https://formatter.codezeroes.com/",
+        "image": "https://codezeroes.com/wp-content/uploads/2025/11/web-image-5.jpg",
+        "case_study_url": null,
+        "featured": true
+      },
+      {
+        "id": "plan-to-dubai",
+        "title": "Plan to Dubai",
+        "category": "Travel / Tourism / API",
+        "technologies": [
+          "Laravel",
+          "PHP",
+          "REST API",
+          "Admin Panel",
+          "MySQL"
+        ],
+        "description": "A centralized tourism package management system with an admin panel and API, allowing curated tour package data to be managed and integrated seamlessly into travel websites.",
+        "role": "Laravel Developer",
+        "status": "client-project",
+        "is_private": false,
+        "url": "https://plantodubai.com/",
+        "image": "https://codezeroes.com/wp-content/uploads/2025/11/web-image-6.jpg",
+        "case_study_url": null,
+        "featured": true
+      },
+      {
+        "id": "mech-3d-studio",
+        "title": "Mech 3D Studio",
+        "category": "3D Design / Creative Studio",
+        "technologies": [
+          "WordPress",
+          "Elementor",
+          "3D Visualization"
+        ],
+        "description": "A professional website for a creative 3D design and visualization studio specializing in 3D modeling, rendering, sculpting, and printing services.",
+        "role": "WordPress Developer",
+        "status": "client-project",
+        "is_private": false,
+        "url": "https://test.mech3dstudios.com/",
+        "image": "https://codezeroes.com/wp-content/uploads/2025/11/web-image-2.jpg",
+        "case_study_url": null,
+        "featured": true
+      }
+    ]
+  }
+}
