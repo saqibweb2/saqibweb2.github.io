@@ -241,34 +241,56 @@ main { width: min(100%, var(--max-width)); margin-inline: auto; }
 
 @media (max-width: 540px) {
   :root { --gutter: 22px; }
-  .topbar-whatsapp { gap: 5px; margin-left: auto; margin-right: 10px; font-size: 8px; }
+  .eyebrow, .section-kicker, .section-intro > span, .drawer-head, .drawer-contact > p, .drawer-social { font-size: 10px; }
+  .art-top, .art-bottom { font-size: 9px; }
+  .resume-download { font-size: 10px; }
+  .topbar-whatsapp { gap: 5px; margin-left: auto; margin-right: 10px; font-size: 10px; }
   .topbar-whatsapp svg { width: 16px; height: 16px; }
   .hero { grid-template-columns: minmax(0,1fr); padding-top: 105px; gap: 28px; }
   .hero h1 { font-size: clamp(2.85rem, 12vw, 4.25rem); }
   .hero-bottom { align-items: flex-start; flex-direction: column; margin-top: 22px; }
-  .hero-bottom p { max-width: 280px; font-size: 12px; }
-  .circle-link { width: 70px; height: 70px; font-size: 7px; }
-  .hero-tags { margin-top: 22px; font-size: 7px; }
+  .hero-bottom p { max-width: 320px; font-size: 15px; }
+  .circle-link { width: 74px; height: 74px; font-size: 9px; }
+  .hero-tags { margin-top: 22px; font-size: 9px; }
   .hero-art { min-height: 270px; }
   .statement { padding-block: 60px; }
   .statement h2 { margin-top: 28px; font-size: clamp(2rem, 9vw, 3rem); }
+  .statement > p:last-child { font-size: 14px; }
   .projects-section { padding-block: 64px; }
   .section-intro h2, .experience-head h2, .approach-section h2, .contact-section h2 { font-size: clamp(2.45rem, 11vw, 3.7rem); }
+  .section-intro > p { font-size: 14px; }
   .project-jump { margin: 23px 0 42px; }
+  .project-jump a { font-size: 12px; }
   .project-group + .project-group { margin-top: 52px; }
   .project-grid { grid-template-columns: minmax(0, 1fr); gap: 30px; }
   .project-visual { aspect-ratio: 1.35; }
   .project-card-copy h4 { font-size: 1.35rem; }
-  .project-description { font-size: 11px; }
+  .project-category-label { font-size: 9px; }
+  .project-category-label-text { font-size: 9px; }
+  .project-description { font-size: 13px; }
+  .project-visit { font-size: 11px; }
+  .group-heading h3 span { font-size: 10px; }
+  .group-heading > p { font-size: 12px; }
   .experience-section, .approach-section { padding-block: 64px; }
-  .experience-lead { margin: 22px 0 35px; }
+  .experience-lead { margin: 22px 0 35px; font-size: 15px; }
   .experience-list article { padding-block: 20px; }
+  .experience-label, .approach-grid article > span { font-size: 10px; }
+  .experience-list h3 { font-size: 1.35rem; }
+  .experience-list article div > p:last-child { font-size: 14px; }
+  .experience-tools { font-size: 10px; }
   .approach-grid { grid-template-columns: 1fr; margin-top: 30px; }
   .approach-grid article, .approach-grid article + article { min-height: 0; padding: 18px 0; border-right: 0; border-bottom: 1px solid var(--line); }
   .approach-grid h3 { margin: 15px 0 7px; }
+  .approach-grid p { font-size: 14px; }
   .about-section { padding-block: 64px; }
   .about-copy h2 { font-size: clamp(2.35rem, 10vw, 3.3rem); }
+  .about-copy > p { font-size: 14px; }
+  .about-copy .about-lead { font-size: 16px; }
   .contact-section { padding-block: 61px; }
+  .contact-section > div > p:last-child { font-size: 14px; }
+  .contact-cta > span { font-size: 10px; }
+  .contact-cta strong { font-size: 1.2rem; }
+  .footer { font-size: 10px; }
   .footer { align-items: flex-start; flex-wrap: wrap; }
   .footer > p { order: 3; width: 100%; }
   .footer nav { margin-left: auto; }
